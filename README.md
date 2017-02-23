@@ -6,7 +6,7 @@ The life of 2 interns while working at Philips Research (Netherlands) (May-July 
 * Vana Panagiotou
 
 
-For research ideas, experiments and collaboration with the full dataset (including location, temperature and acceleration), please email ndiaz@decsai.ugr.es
+For research ideas, experiments and collaboration with the full dataset (including GPS, ambient light, accelerometer, magnetometer, PIR, temperature), please email ndiaz@decsai.ugr.es
 
 
 ---
