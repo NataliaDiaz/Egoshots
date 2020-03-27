@@ -20,7 +20,9 @@ For research ideas, experiments and collaboration with the full dataset -this re
 ---
 Credit-thanks to Alejandro Betancourt for the Autographer camera and all rest of open-minded Eindhoven friends for being part of Vana and my story :)
 
-# If you use it, please cite:
+# Paper associated
+
+If you use it, please cite:
 
 Egoshots, an ego-vision life-logging dataset and semantic fidelity metric to evaluate diversity in image captioning models Pranav Agarwal, Alejandro Betancourt, Vana Panagiotou, Natalia Díaz-Rodríguez. Machine Learning in Real Life (ML-IRL) ICLR 2020 Workshop https://arxiv.org/abs/2003.11743
 
