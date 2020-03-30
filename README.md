@@ -17,8 +17,9 @@ For research ideas, experiments and collaboration with the full dataset -this re
 
 
 
----
-Credit-thanks to Alejandro Betancourt for the Autographer camera and all rest of open-minded Eindhoven friends for being part of Vana and my story :)
+# Acknowledgements
+
+Thanks to Alejandro Betancourt for the Autographer camera and all rest of open-minded Eindhoven friends for being part of Vana and Natalia's stories :)
 
 # Paper associated
 
