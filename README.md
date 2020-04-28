@@ -32,6 +32,7 @@ Egoshots, an ego-vision life-logging dataset and semantic fidelity metric to eva
     author={Pranav Agarwal and Alejandro Betancourt and Vana Panagiotou and Natalia Díaz-Rodríguez},
     year={2020},
     month = {Mar},
+    title = {Egoshots, an ego-vision life-logging dataset and semantic fidelity metric to evaluate diversity in image captioning models}
     booktitle = {Machine Learning in Real Life (ML-IRL) Workshop at the International Conference on Learning Representations  (ICLR)},
     url={https://arxiv.org/abs/2003.11743}
 }
